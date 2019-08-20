@@ -1,3 +1,10 @@
+---
+title: "Zucchini Bread"
+tags:
+  - Baking
+  - Snack
+---
+
 # Zucchini Bread
 
 ## Ingredients
