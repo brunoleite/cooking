@@ -5,8 +5,6 @@ tags:
   - Snack
 ---
 
-# Zucchini Bread
-
 ## Ingredients
 * 1 cup of something
 * salt
