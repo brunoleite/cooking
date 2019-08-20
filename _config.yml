@@ -1,7 +1,6 @@
 title: Cooking Recipes
 email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  My cooking recipes, nothing special :)
+description: My cooking recipes, nothing special :)
 twitter_username: @bleite
 github_username: brunoleite
 minimal_mistakes_skin: default
