@@ -76,9 +76,6 @@ defaults:
       type: recipes
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
   
 category_archive:
   type: liquid
