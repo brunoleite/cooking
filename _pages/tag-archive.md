@@ -1,5 +1,6 @@
 ---
-title: "Recipes by Tag"
+title: "Recipes by Tags"
+layout: collection-tags
+collection: recipes
 permalink: /tags/
-layout: tags
 ---
