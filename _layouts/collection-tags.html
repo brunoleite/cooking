@@ -8,6 +8,7 @@ layout: archive
 
 <ul class="taxonomy__index">
   {% for tag in tags %}
+    {% assign i = 0 %}
     {% for post in site[page.collection] %}
       {% if post.tags contains tag %}
         {% assign i = i | plus:1 %}
