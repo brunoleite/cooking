@@ -77,7 +77,7 @@ defaults:
     values:
       layout: single
       tag_archive_path: /activitytags/
-      category_archive_path: /activitycategory/
+      category_archive_path: /activitycategories/
 
 category_archive:
   type: liquid
