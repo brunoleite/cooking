@@ -1,5 +1,6 @@
 ---
 title: "Recipes by Category"
-layout: categories
+layout: collection-categories
+collection: recipes
 permalink: /categories/
 ---
