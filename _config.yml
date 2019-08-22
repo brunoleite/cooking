@@ -76,7 +76,9 @@ defaults:
       type: recipes
     values:
       layout: single
-  
+      tag_archive_path: /activitytags/
+      category_archive_path: /activitycategory/
+
 category_archive:
   type: liquid
   path: /categories/
