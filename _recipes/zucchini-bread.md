@@ -1,6 +1,6 @@
 ---
 title: "Zucchini Bread"
-categories:
+category:
   - Snacks
 tags:
   - Baking
