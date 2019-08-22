@@ -5,6 +5,7 @@ category:
 tags:
   - Baking
   - Snack
+  - Abacaxi
 ---
 
 ## Ingredients
