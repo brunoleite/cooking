@@ -1,7 +1,7 @@
 ---
 title: "Zucchini Bread"
 category:
-  - Snacks
+  - Batata
 tags:
   - Baking
   - Snack
