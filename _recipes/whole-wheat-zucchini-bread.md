@@ -8,9 +8,7 @@ tags:
 ---
 
 ## Time
-| Prep | Cook | Ready in |
-|------|------| ---------|
-| 20m  | 1h   | 1h 40m   |
+**Prep:** 20m | **Cook:** 1h | **Ready in:** 1h 40m
 
 ## Ingredients
 * 3 cups whole wheat flour
