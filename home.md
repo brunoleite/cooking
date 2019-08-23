@@ -24,7 +24,7 @@ feature_row:
     alt: "Snacks"
     title: "Snacks"
     excerpt: "All kinds of snacks for all sorts of snakes"
-    url: "/docs/license/"
+    url: "/categories/#snack"
     btn_class: "btn--primary"
     btn_label: "Have a bite"
 ---
