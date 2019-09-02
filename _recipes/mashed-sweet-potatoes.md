@@ -4,7 +4,7 @@ category:
   - maincourse
 tags:
   - Fast
-  _ Easy
+  - Easy
 ---
 
 ## Time
