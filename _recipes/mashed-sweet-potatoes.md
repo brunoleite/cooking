@@ -1,7 +1,7 @@
 ---
 title: "Mashed Sweet Potatoes"
 category:
-  - maincourse
+  - MainCourse
 tags:
   - Fast
   - Easy
