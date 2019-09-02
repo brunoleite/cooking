@@ -29,4 +29,5 @@ tags:
 4. Lightly oil grill grate. Place salmon on the preheated grill, and discard marinade. 
 5. Cook salmon for 6 to 8 minutes per side, or until the fish flakes easily with a fork.
 
-**Original Source:** [allrecipes.com](https://www.allrecipes.com/recipe/12720/grilled-salmon-i/)
+**Original Source:** [allrecipes.com](https://www.allrecipes.com/recipe/12720/grilled-salmon-i/){:target="_blank"}
+
