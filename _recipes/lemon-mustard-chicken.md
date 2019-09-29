@@ -1,7 +1,7 @@
 ---
 title: "Lemon-Mustard Chicken"
 category:
-  - MainCourse
+  - Main Course
 tags:
   - Chicken
   - Low Fat
