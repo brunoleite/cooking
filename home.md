@@ -17,7 +17,7 @@ feature_row:
     alt: "Main Course"
     title: "Main Course"
     excerpt: "Lunch? Dinner? There we go!"
-    url: "/categories/#maincourse"
+    url: "/categories/#main-course"
     btn_class: "btn--primary"
     btn_label: "Have a bite"
   - image_path: /assets/images/snack-mini-banner.jpg
