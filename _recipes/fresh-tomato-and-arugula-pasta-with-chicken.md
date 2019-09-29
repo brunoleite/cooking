@@ -1,7 +1,7 @@
 ---
 title: "Fresh Tomato and Arugula Pasta with Chicken"
 category:
-  - MainCourse
+  - Main Course
 tags:
   - Chicken
   - Pasta
