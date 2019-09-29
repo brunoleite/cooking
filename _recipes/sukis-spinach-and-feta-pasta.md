@@ -26,6 +26,9 @@ tags:
 
 ## Directions
 1. Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water until al dente; drain.
-2. Meanwhile, heat olive oil in a large skillet over medium-high heat; add onion and garlic, and cook until golden brown. Mix in tomatoes, mushrooms, and spinach. Season with salt, pepper, and red pepper flakes. Cook 2 minutes more, until tomatoes are heated through and spinach is wilted. Reduce heat to medium, stir in pasta and feta cheese, and cook until heated through.
+2. Meanwhile, heat olive oil in a large skillet over medium-high heat; add onion and garlic, and cook until golden brown. 
+3. Mix in tomatoes, mushrooms, and spinach. Season with salt, pepper, and red pepper flakes. 
+4. Cook 2 minutes more, until tomatoes are heated through and spinach is wilted. 
+5. Reduce heat to medium, stir in pasta and feta cheese, and cook until heated through.
 
 **Original Source:** [All Recipes](https://www.allrecipes.com/recipe/19591/sukis-spinach-and-feta-pasta/){:target="_blank"}
