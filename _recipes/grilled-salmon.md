@@ -1,7 +1,7 @@
 ---
 title: "Grilled Salmon"
 category:
-  - "Main Course"
+  - Main Course
 tags:
   - Marinated
   - Salmon
