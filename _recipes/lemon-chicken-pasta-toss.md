@@ -1,7 +1,7 @@
 ---
 title: "Lemon Chicken Pasta Toss"
 category:
-  - MainCourse
+  - Main Course
 tags:
   - Chicken
   - Pasta
