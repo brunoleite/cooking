@@ -1,5 +1,5 @@
 ---
-title: "Suki's Spinach and Feta Pasta"
+title: "Spinach and Feta Pasta"
 category:
   - Main Course
 tags:
