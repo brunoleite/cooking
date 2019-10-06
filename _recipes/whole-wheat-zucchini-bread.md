@@ -19,7 +19,7 @@ tags:
 * 3 eggs
 * 1 cup vegetable oil
 * 2 cups brown sugar
-* teaspoons vanilla extract
+* 3 teaspoons vanilla extract
 * 2 cups grated zucchini
 * 1 cup chopped walnuts
 
