@@ -21,8 +21,7 @@ tags:
 * 1 teaspoon red pepper flakes, or to taste
 * 1/2 teaspoon ground cumin
 * 4 mediums skinless, boneless chicken breast halves
-
-2 tablespoons chopped fresh cilantro
+* 2 tablespoons chopped fresh cilantro
 
 ## Directions
 1. Whisk lime juice, olive oil, garlic, lime zest, salt, brown sugar, red pepper flakes, and cumin together in a small bowl. 
