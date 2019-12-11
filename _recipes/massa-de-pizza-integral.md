@@ -7,9 +7,6 @@ tags:
   - Pizza
 ---
 
-## Time
-**Prep:** 20m | **Cook:** 40m
-
 ## Ingredients para massas de 300 gramas
 * 1/2 copo de água
 * 1 colheres (sopa) de azeite de oliva
@@ -33,6 +30,9 @@ tags:
 * 4 copos de farinha de trigo integral
 * 1 1/2 colher (sopa) de germe de trigo **(opcional)**
 * 2 colher (chá) de fermento biológico seco instantâneo
+
+## Máquina de Pão
+Ciclo: 8 Massas
 
 ## Directions
 1. Retirar a forma de assar de dentro da Panificadora.
