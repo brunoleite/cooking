@@ -18,6 +18,7 @@ tags:
 * 1/3 cup finely chopped shallot (3)
 * 2 cloves garlic, minced
 * 3/4 cup chicken broth (substitute: cup of hot water + caldo knorr)
+  * 1 cup of water = 1 tablet of caldo knorr
 * 3 tablespoons lemon juice
 * 1/16 teaspoon salt
 * 1/4 teaspoon black pepper
