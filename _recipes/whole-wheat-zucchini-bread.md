@@ -18,7 +18,7 @@ tags:
 * 1 tablespoon ground cinnamon
 * 3 eggs
 * 1 cup vegetable oil
-* 2 cups brown sugar
+* 1 1/2 cups brown sugar
 * 3 teaspoons vanilla extract
 * 2 cups grated zucchini
 * 1 cup chopped walnuts
