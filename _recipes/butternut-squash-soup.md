@@ -10,11 +10,11 @@ tags:
 * 1 medium butternut squash chopped into cubes
 * 1 medium or large onion chopped
 * 2 tablespoons olive oil
-* 200 g ginger, chopped
+* 200 g ginger chopped
 * 4 garlic cloves minced
 * 4 carrots chopped
 * 6 small potatos chopped
-* 4 parsnips, chopped
+* 4 parsnips chopped
 * 1 kg chicken breast chopped into cubes
 * 2 tablespoons pumpkin seeds
 * 580 g buffalo mozzarella
