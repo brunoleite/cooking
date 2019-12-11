@@ -8,11 +8,11 @@ tags:
 ---
 
 ## Time
-**Prep:** 10m | **Cook:** 20m | **Ready in:** 30m
+**Prep:** 10m | **Cook:** 20m | **Ready in:** 30m | **Makes:** 8 Servings
 
 ## Ingredients
-* 6 sweet potatoes 
-* 1/2 cup butter
+* 5 sweet medium potatoes 
+* 2 teaspoons
 * 2 cloves garlic, minced
 * 1 teaspoon dried basil
 * 1/2 teaspoon dried thyme
