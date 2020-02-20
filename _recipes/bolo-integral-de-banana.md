@@ -25,4 +25,5 @@ tags:
 ## Directions
 1. Bata os ingredientes, exceto a aveia e o fermento, no liquidificador.
 2. Acrescente depois a aveia e o fermento e bata novamente.
-3. Unte a assadeira com óleo de coco e aveia fina e leve ao forno pré-aquecido a 180C por cerca de 40 minutos.
+3. Adicione as sementes e mexa com uma espatula.
+4. Unte a assadeira com óleo de coco e aveia fina e leve ao forno pré-aquecido a 180C por cerca de 40 minutos.
