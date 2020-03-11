@@ -12,7 +12,7 @@ tags:
 
 ## Ingredients
 * 5 sweet medium potatoes 
-* 2 teaspoons
+* 2 teaspoons butter
 * 2 cloves garlic, minced
 * 1 teaspoon dried basil
 * 1/2 teaspoon dried thyme
