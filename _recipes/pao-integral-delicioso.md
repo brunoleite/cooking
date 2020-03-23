@@ -23,7 +23,7 @@ tags:
 * 3 colheres (chá) de fermento biológico seco ou fermento em pó para pão
 
 ## Máquina de pão:
-* Ciclo: 3 - Integral
+* Ciclo: 3 - Integral ou Ciclo: 8 - Massa (caso queira assar em forno tradicional)
 * Quantidade de massa: 1 - 600 gramas
 
 ## Directions
