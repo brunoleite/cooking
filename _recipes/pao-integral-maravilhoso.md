@@ -29,5 +29,3 @@ tags:
 3. Quando a massa estiver crescida, antes de começar a assar, pincela água sobre o topo do pão e salpique farinha ou flocos de aveia por cima e deixe terminar.
 4. Caso queira assar o pão no forno, a temperatura aconselhada é 200 graus por cerca de 20 minutos ou até que o pão esteja corado por fora, ao bater na casca, você ouvirá um som de oco.
 5. Tire o pão da forma e deixe esfriar por 2 horas em uma grelha para evitar humidade, no mínimo, antes de cortar.
-
-**Original Source:** [Blog Máquina de Pão](https://maquinadepao.blogspot.com/2020/01/pao-integral-maravilhoso.html){:target="_blank"}
