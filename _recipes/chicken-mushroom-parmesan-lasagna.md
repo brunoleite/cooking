@@ -5,10 +5,11 @@ category:
 tags:
   - Chicken
   - Mushroom
+  - Lasagna
 ---
 
 ## Time
-**Prep:** 20m | **Cook:** 20m | **Makes:** 4 Servings
+**Prep:** 40m | **Cook:** 35m | **Makes:** 8 Servings
 
 ## Ingredients
 * 6-9 boiled, whole wheat lasagna noodles
