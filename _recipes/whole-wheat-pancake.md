@@ -20,7 +20,7 @@ tags:
 
 ## Directions
 1. In a large bowl whisk together the flour, baking powder, salt and sugar.
-2. In a separate bowl whisk together the egg, milk, and melted butter. 
+2. In a separate bowl whisk together the egg, milk, and canola oil. 
 3. Make a well in the center of the dry ingredients and then pour in the egg mixture, all at once, and stir (with a rubber spatula or wooden spoon) just until combined. The batter should have some small lumps. (Do not over mix the batter or the pancakes will be tough.)
 4. Heat a frying pan or griddle over medium high heat until a few sprinkles of water dropped on the pan or griddle splatter. Adjust the temperature as needed. Can also use an electric griddle with the temperature set at 350 degrees F (180 degrees C). Using a piece of paper towel or a pastry brush, lightly brush the pan with oil (or spray with a non stick vegetable spray.)
 5. Using a small ladle or scoop, pour about 1/4 cup (60 ml) of pancake batter onto the hot pan, spacing the pancakes a few inches apart. When the bottoms of the pancakes are brown and bubbles start to appear on the top surfaces of the pancakes (2-3 minutes), turn over. Cook until lightly browned (about 1-2 minutes).
