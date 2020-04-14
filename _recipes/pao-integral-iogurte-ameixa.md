@@ -16,7 +16,7 @@ tags:
 * 2 colheres de sopa de manteiga ou margarina
 * 2 colheres de sopa de açúcar branco ou mascavo
 * 2 colher de chá de fermento biológico seco
-* 2 xícaras de ameixas secas sem caroços, demolhadas e escorridas e secas com papel toalha, ou ameixas em calda de caroços e escorridas.</div>
+* 1 xícara de ameixas secas sem caroços, demolhadas e escorridas e secas com papel toalha, ou ameixas em calda de caroços e escorridas.
 
 ## Máquina de pão:
 * Ciclo: 1 - Integral ou Ciclo: 8 - Massa (caso queira assar em forno tradicional)
