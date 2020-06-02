@@ -5,6 +5,7 @@ category:
 tags:
   - Snack
   - Coco
+  - Bread
   - Baking
 ---
 
