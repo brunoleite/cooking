@@ -1,11 +1,10 @@
 ---
 title: "Trança Recheada com Cocada"
 category:
-  - Snack
+  - Bread
 tags:
   - Snack
   - Coco
-  - Bread
   - Baking
 ---
 
