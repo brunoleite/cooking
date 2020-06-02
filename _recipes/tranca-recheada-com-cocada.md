@@ -54,7 +54,7 @@ tags:
 12. Pré aqueça o forno à 200 graus.
 13. Asse por 20 min ou até que esteja bem dourada.
 
-*Obs.:* se desejar reserve 2 colheres (sopa) de coco ralado, misturar com 2 colheres (sopa) de açúcar e polvilhar sobre o pão (antes de assar)
+**Obs.:** se desejar reserve 2 colheres (sopa) de coco ralado, misturar com 2 colheres (sopa) de açúcar e polvilhar sobre o pão (antes de assar)
 
 
 
