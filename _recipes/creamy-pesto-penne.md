@@ -30,3 +30,5 @@ tags:
 6. Stir in the pesto and remaining pasta water if necessary. Turn off the heat and season with salt and pepper to taste.
 
 **Original Source:** [Blue Apron](https://www.blueapron.com/recipes/creamy-pesto-cavatelli-with-spinach-zucchini-tomatoes){:target="_blank"}
+
+[![video](https://img.youtube.com/vi/zQm9Bk2bA_Q/0.jpg)](https://youtu.be/zQm9Bk2bA_Q?t=298)
