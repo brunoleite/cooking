@@ -32,4 +32,4 @@ tags:
 6. Spread oregano fries, lemon and honey fried halloumi and salad between your plates. Serve with tzatziki and lemon wedges on the side.
 
 **Original Source:** [Hello Fresh](https://www.hellofresh.se/recipes/citron-och-honungsstekt-halloumi-5f6c67be1aeb3806ab72a8a6?subscriptionId=1079379&week=2020-W45){:target="_blank"}
-**PDF:** [PDF](/assets/pdf/citron-och-honungsstekt-halloumi.pdf){:target="_blank"}
+**PDF:** [PDF](/cooking/assets/pdf/citron-och-honungsstekt-halloumi.pdf){:target="_blank"}
