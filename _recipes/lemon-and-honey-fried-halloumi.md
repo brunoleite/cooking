@@ -11,16 +11,16 @@ tags:
 **Prep:** 40m | **Cook:** 35m | **Makes:** 4 Servings
 
 ## Ingredients
-* Potato - 500 g
-* Halloumi - 200 g
-* Cucumber - 1 un
-* Sour cream - 75 g
-* Honey - 25 g
-* Lemon - 1 un
-* Garlic glove - 1 un
-* Radishes - 1/2 bag
-* Salad mix - 1 bag
-* Oregano - 50 g
+* 500g Potato
+* 200g Halloumi
+* 1 un Cucumber
+* 75g Sour cream
+* 25g Honey
+* 1 un Lemon
+* 1 un Garlic glove
+* 1/2 bag Radishes
+* 1 bag Salad mix
+* 50g Oregano
 * Water
 
 ## Directions
