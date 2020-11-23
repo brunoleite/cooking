@@ -31,5 +31,5 @@ tags:
 5. Pour off the water from the halloumi slices and pat dry with kitchen paper when there are 5 minutes left of the french cooking time. Heat a splash of olive oil * in a large frying pan on medium heat and fry the halloumi slices for about 2 minutes on each side until golden. and a splash of lemon juice 1 min remains, and turn the slices so they are covered.
 6. Spread oregano fries, lemon and honey fried halloumi and salad between your plates. Serve with tzatziki and lemon wedges on the side.
 
-**Original Source:** [Hello Fresh](https://www.hellofresh.se/recipes/citron-och-honungsstekt-halloumi-5f6c67be1aeb3806ab72a8a6?subscriptionId=1079379&week=2020-W45){:target="_blank"}
+**Original Source:** [Hello Fresh](https://www.hellofresh.se/recipes/citron-och-honungsstekt-halloumi-5f6c67be1aeb3806ab72a8a6?subscriptionId=1079379&week=2020-W45){:target="_blank"}  
 **PDF:** [PDF](/cooking/assets/pdf/citron-och-honungsstekt-halloumi.pdf){:target="_blank"}
