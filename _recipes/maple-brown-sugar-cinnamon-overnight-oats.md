@@ -17,7 +17,7 @@ tags:
 * 2 1/2 Tbsp. brown sugar
 * 3/4 tsp. cinnamon
 * 2 1/2 Tbsp. pure maple syrup
-* 1/2 tsb. nutmeg
+* 1/2 tsp. nutmeg
 * 1/4 cup pecans or walnuts coarsely chopped
 
 ## Directions
