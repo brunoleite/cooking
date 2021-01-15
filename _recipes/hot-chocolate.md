@@ -19,6 +19,6 @@ tags:
 * Small pinch salt 
 
 ## Directions
-1. Mix all ingredients in a hot pan and stir together.
+1. Mix all ingredients in a hot pan and stir together with a whisk.
 
 **Original Source:** [YouTube](https://www.youtube.com/watch?v=pn-W0DVQw8Y&feature=share){:target="_blank"}
