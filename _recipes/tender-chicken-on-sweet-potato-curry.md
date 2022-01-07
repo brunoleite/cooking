@@ -11,7 +11,7 @@ tags:
 **Prep:** 20m | **Cook:** 20m | **Makes:** 4 Servings
 
 ## Ingredients
-* 4 dl Coconut Milk
+* 400 ml Coconut Milk
 * 1 Pack of Craisins
 * 1 kg Chicken Breast  
 * 2 Cans Chickpeas
