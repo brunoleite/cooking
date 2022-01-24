@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Time
-**Prep:** 20m | **Cook:** 20m | **Makes:** 4 Servings
+**Prep:** 20m | **Cook:** 20m | **Makes:** 8 Servings
 
 ## Ingredients
 * 400 ml Coconut Milk
