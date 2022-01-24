@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Time
-**Prep:** 20m | **Cook:** 30m | **Makes:** 4 Servings
+**Prep:** 20m | **Cook:** 30m | **Makes:** 8 Servings
 
 ## Ingredients
 * 20 g fresh chives and dill
