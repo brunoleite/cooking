@@ -1,5 +1,5 @@
 ---
-title: "chicken with Coconut"
+title: "Chicken with Coconut"
 category:
   - Main Course
 tags:
