@@ -25,12 +25,12 @@ tags:
 * 1 1/2 colher (chá) de fermento biológico seco instantâneo
 
 ### Para o recheio
-* 1 pacote de 100 g de coco ralado
-* 1 copo de água com 3 colheres (sopa) de leite em pó
-  * ou 1 copo de leite de aveia ou sem lactose
-* 6 colheres (sopa) de açúcar
-* 1 colher (sopa) de amido de milho
-* 4 Cravos-da-índia ou a gosto
+* 1 pacote de 150 g de coco ralado
+* 1 1/2 copo de água com 3 colheres (sopa) de leite em pó
+  * ou 1 1/2 copo de leite de aveia ou sem lactose
+* 9 colheres (sopa) de açúcar
+* 2 colher (sopa) de amido de milho
+* 6 Cravos-da-índia ou a gosto
 
 ## Modo de Preparo do recheio:
 1. Em uma panela, colocar o coco, á agua, o leite em pó e o açúcar.
