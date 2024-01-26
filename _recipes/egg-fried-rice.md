@@ -1,15 +1,17 @@
 ---
-title: "Creamy Pesto Penne"
+title: "Egg Fried Rice"
 category:
   - Main Course
 tags:
   - Chicken
-  - Pasta
+  - Rice
+  - Dairy Free
+  - Healthy
   - Easy
 ---
 
 ## Time
-**Prep:** 20m | **Cook:** 20m | **Makes:** 4 Servings
+**Prep:** 10m | **Cook:** 15m | **Makes:** 6 Servings
 
 ## Ingredients
 * 1/4 cup oyster sauce
