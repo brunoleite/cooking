@@ -24,11 +24,17 @@ tags:
 * 2 Cloves of Garlic
 ![](/cooking/assets/images/chicken-with-coconut/garlic.jpg)
 * 2 Stalks of Lemongrass
+![](/cooking/assets/images/chicken-with-coconut/lemongrass.jpg)
 * 2 Broccoli
+![](/cooking/assets/images/chicken-with-coconut/brocolli.jpg)
 * 50 ml Soy Sauce
+![](/cooking/assets/images/chicken-with-coconut/soy-source.jpeg)
 * 2 Limes
+![](/cooking/assets/images/chicken-with-coconut/lime.jpg)
 * 2 Red Peppers
+[](/cooking/assets/images/chicken-with-coconut/paprika-red.jpeg)
 * 2 Sweet Potatoes
+![](/cooking/assets/images/chicken-with-coconut/sweet-potato.jpg)
 * Salt to Taste
 * Black Pepper to Taste
 
