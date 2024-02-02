@@ -13,8 +13,8 @@ tags:
 **Prep:** 20m | **Cook:** 30m | **Makes:** 4 Servings
 
 ## Ingredients
-* 400 ml Coconut Milk
-* 1 kg Chicken Breat
+* 400 ml Coconut Milk ![](/cooking/assets/images/chicken-with-coconut/coconut-milk.jpeg)
+* 1 kg Chicken Breat ![](/cooking/assets/images/chicken-with-coconut/meat-chicken-filet.jpeg)
 * 2 Spring Onions
 * 2 Pieces Ginger
 * 2 Cloves of Garlic
