@@ -28,7 +28,7 @@ tags:
 * 2 Broccoli
 ![](/cooking/assets/images/chicken-with-coconut/broccoli.jpg)
 * 50 ml Soy Sauce
-![](/cooking/assets/images/chicken-with-coconut/soy-saurce.jpeg)
+![](/cooking/assets/images/chicken-with-coconut/soy-sauce.jpeg)
 * 2 Limes
 ![](/cooking/assets/images/chicken-with-coconut/lime.jpg)
 * 2 Red Peppers
